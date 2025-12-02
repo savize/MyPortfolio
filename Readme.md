@@ -1,41 +1,26 @@
-# Portfolio Website
+# 🌐 Portfolio Website
 
-## Overview
-This is a responsive and interactive portfolio website built using HTML, CSS, Bootstrap, and JavaScript. The project showcases my skills, projects, and contact information in a clean and modern design.
+This repository contains the source code for my personal **portfolio
+website**, built with **HTML, CSS, JavaScript, and Bootstrap**.\
+The portfolio showcases several of my projects and provides links to
+their respective GitHub repositories.
 
-## Features
-- **Fully Responsive Design** – Optimized for all screen sizes using Bootstrap's grid system.
-- **Smooth Scrolling & Animations** – Enhanced user experience with CSS and JavaScript animations.
-- **Projects Showcase** – Displays portfolio projects with descriptions and images.
-- **Contact Form** – Allows visitors to get in touch via a functional contact form.
-- **Navigation Bar** – A fixed and stylish navbar for easy navigation.
-- **Dark Mode Toggle** – Users can switch between light and dark themes.
+## 🚀 Overview
 
-## Technologies Used
-- **HTML5** – Structuring the content.
-- **CSS3** – Styling the website with custom styles and Bootstrap.
-- **Bootstrap** – Making the site fully responsive.
-- **JavaScript** – Adding interactivity and animations.
+The website presents a clean and responsive interface where visitors can
+explore the different projects I've worked on. Each listed project
+includes a direct link to its GitHub repository, allowing users to view
+source code, documentation, and technical details.
 
-## Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/portfolio-website.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd portfolio-website
-   ```
-3. Open `index.html` in your browser.
+## 📂 Featured Projects
 
-## Screenshots
-![Portfolio Preview](screenshot.png)
+Below are some of the key projects showcased in the portfolio:
 
-## Future Improvements
-- Add a blog section to share technical articles.
-- Integrate a backend for dynamic content management.
-- Implement additional interactive elements using JavaScript.
+[-   **Temo Project** --](https://github.com/savize/Tesmo) 
+-   **CRM Project** -- Customer relationship management project\
+-   **Dict Project** -- Dictionary project with useful features\
+-   **Mevs Project** -- Another highlighted project from my GitHub
 
-## Contributing
-Feel free to fork this repository and submit pull requests for improvements.
+## 📸 Portfolio Preview
 
+(You can add screenshots or a GIF preview here later.)
