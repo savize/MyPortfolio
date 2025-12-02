@@ -23,5 +23,5 @@ Below are some of the key projects showcased in the portfolio:
 ## 📸 Portfolio Preview
 
 ![Portfolio Screenshot](assets/img/portAbout.png)
-assets/img/port.png
-assets/img/portCont.png
+![Portfolio Screenshot](assets/img/port.png)
+![Portfolio Screenshot](assets/img/portCont.png)
