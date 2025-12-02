@@ -15,12 +15,13 @@ source code, documentation, and technical details.
 ## 📂 Featured Projects
 
 Below are some of the key projects showcased in the portfolio:
-
-[-   **Temo Project** --](https://github.com/savize/Tesmo) 
--   **CRM Project** -- Customer relationship management project\
--   **Dict Project** -- Dictionary project with useful features\
--   **Mevs Project** -- Another highlighted project from my GitHub
+- [**Temo Project**](https://github.com/savize/Tesmo)
+- [**CRM Project**](https://github.com/savize/CRM_SVZE)
+- [**Dict Project**](https://github.com/savize/Dictionary)
+- [**Mevs Project**](https://github.com/savize/MEVS_V2)
 
 ## 📸 Portfolio Preview
 
-(You can add screenshots or a GIF preview here later.)
+![Portfolio Screenshot](assets/img/portAbout.png)
+assets/img/port.png
+assets/img/portCont.png
